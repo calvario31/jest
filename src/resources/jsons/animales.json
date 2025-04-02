@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "nombre": "CAMEL",
+        "tipo": "SALVAJE",
+        "amo": "MISS CONSIDINE",
+        "edad": 8,
+        "peso": 138.156,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 2,
+        "nombre": "CHEETAH",
+        "tipo": "DOMESTICO",
+        "amo": "JOHNSIE KOEPP",
+        "edad": 16,
+        "peso": 73.13,
+        "genero": "MACHO"
+    },
+    {
+        "id": 3,
+        "nombre": "ANT",
+        "tipo": "DOMESTICO",
+        "amo": "MRS. KERSTIN KULAS",
+        "edad": 3,
+        "peso": 125.167,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 4,
+        "nombre": "CROW",
+        "tipo": "DOMESTICO",
+        "amo": "MRS. DAMION LOCKMAN",
+        "edad": 2,
+        "peso": 186.108,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 5,
+        "nombre": "MANATEE",
+        "tipo": "DOMESTICO",
+        "amo": "MAURICIO GREENHOLT",
+        "edad": 16,
+        "peso": 82.111,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 6,
+        "nombre": "JACKAL",
+        "tipo": "DOMESTICO",
+        "amo": "MARIKO MUELLER IV",
+        "edad": 4,
+        "peso": 66.552,
+        "genero": "MACHO"
+    },
+    {
+        "id": 7,
+        "nombre": "MAMMOTH",
+        "tipo": "SALVAJE",
+        "amo": "WILBURN KERLUKE",
+        "edad": 16,
+        "peso": 37.561,
+        "genero": "MACHO"
+    },
+    {
+        "id": 8,
+        "nombre": "HORSE",
+        "tipo": "DOMESTICO",
+        "amo": "LEVI DAUGHERTY",
+        "edad": 10,
+        "peso": 156.286,
+        "genero": "MACHO"
+    },
+    {
+        "id": 9,
+        "nombre": "REINDEER",
+        "tipo": "SALVAJE",
+        "amo": "COLENE BRAKUS",
+        "edad": 11,
+        "peso": 15.681,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 10,
+        "nombre": "SNAIL",
+        "tipo": "DOMESTICO",
+        "amo": "ZACHARIAH BAUCH",
+        "edad": 9,
+        "peso": 5.47,
+        "genero": "MACHO"
+    },
+    {
+        "id": 11,
+        "nombre": "GRASSHOPPER",
+        "tipo": "DOMESTICO",
+        "amo": "LEANN BERGNAUM",
+        "edad": 2,
+        "peso": 88.283,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 12,
+        "nombre": "HOUND",
+        "tipo": "SALVAJE",
+        "amo": "FABIAN VON",
+        "edad": 11,
+        "peso": 175.874,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 13,
+        "nombre": "DONKEY",
+        "tipo": "SALVAJE",
+        "amo": "DEANGELO KRAJCIK",
+        "edad": 8,
+        "peso": 130.275,
+        "genero": "MACHO"
+    },
+    {
+        "id": 14,
+        "nombre": "MAMMOTH",
+        "tipo": "DOMESTICO",
+        "amo": "OWEN VONRUEDEN I",
+        "edad": 1,
+        "peso": 10.539,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 15,
+        "nombre": "GERBIL",
+        "tipo": "SALVAJE",
+        "amo": "GUADALUPE BOGISICH",
+        "edad": 12,
+        "peso": 189.514,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 16,
+        "nombre": "MOOSE",
+        "tipo": "SALVAJE",
+        "amo": "MRS. VAN BAYER",
+        "edad": 4,
+        "peso": 12.144,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 17,
+        "nombre": "ANTELOPE",
+        "tipo": "SALVAJE",
+        "amo": "NEREIDA BREITENBERG",
+        "edad": 4,
+        "peso": 133.901,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 18,
+        "nombre": "HORSE",
+        "tipo": "SALVAJE",
+        "amo": "ALYSE LANG DVM",
+        "edad": 2,
+        "peso": 192.823,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 19,
+        "nombre": "SNAIL",
+        "tipo": "SALVAJE",
+        "amo": "BUFORD REINGER V",
+        "edad": 5,
+        "peso": 102.549,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 20,
+        "nombre": "YAK",
+        "tipo": "DOMESTICO",
+        "amo": "ROCHELLE CONN",
+        "edad": 3,
+        "peso": 128.448,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 21,
+        "nombre": "MOLE",
+        "tipo": "SALVAJE",
+        "amo": "ISSAC WILDERMAN",
+        "edad": 8,
+        "peso": 82.385,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 22,
+        "nombre": "GRASSHOPPER",
+        "tipo": "SALVAJE",
+        "amo": "ALEXIS ZIEME",
+        "edad": 9,
+        "peso": 13.51,
+        "genero": "MACHO"
+    },
+    {
+        "id": 23,
+        "nombre": "PIG",
+        "tipo": "SALVAJE",
+        "amo": "STEPHENIE MURAZIK",
+        "edad": 6,
+        "peso": 133.674,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 24,
+        "nombre": "CROW",
+        "tipo": "DOMESTICO",
+        "amo": "HOMER KESSLER DVM",
+        "edad": 9,
+        "peso": 74.407,
+        "genero": "MACHO"
+    },
+    {
+        "id": 25,
+        "nombre": "HIPPOPOTAMUS",
+        "tipo": "DOMESTICO",
+        "amo": "ARTHUR CHAMPLIN",
+        "edad": 18,
+        "peso": 30.571,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 26,
+        "nombre": "DOG",
+        "tipo": "DOMESTICO",
+        "amo": "BELL BRAUN",
+        "edad": 6,
+        "peso": 92.024,
+        "genero": "MACHO"
+    },
+    {
+        "id": 27,
+        "nombre": "GUINEA PIG",
+        "tipo": "SALVAJE",
+        "amo": "MONTE HEATHCOTE",
+        "edad": 15,
+        "peso": 6.519,
+        "genero": "MACHO"
+    },
+    {
+        "id": 28,
+        "nombre": "LEOPARD",
+        "tipo": "SALVAJE",
+        "amo": "PENNI WUCKERT MD",
+        "edad": 12,
+        "peso": 31.55,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 29,
+        "nombre": "TURTLE ",
+        "tipo": "DOMESTICO",
+        "amo": "JANIE WEIMANN",
+        "edad": 10,
+        "peso": 187.585,
+        "genero": "HEMBRA"
+    },
+    {
+        "id": 30,
+        "nombre": "COCKROACH",
+        "tipo": "SALVAJE",
+        "amo": "MARIAH LAKIN",
+        "edad": 16,
+        "peso": 19.612,
+        "genero": "HEMBRA"
+    }
+]
