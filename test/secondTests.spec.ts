@@ -1,4 +1,4 @@
-import { Logs } from "../utilities/Logs.js";
+import { Logs } from "../src/utilities/Logs.js";
 
 describe("abc tests", () => {
     beforeEach(() => {
